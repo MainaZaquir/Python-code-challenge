@@ -14,9 +14,9 @@ def two_positive(a, b, c):
     return positive_count == 2
 
 # Examples
-print(two_positive(2, 4, -3))   # Expected output: True
-print(two_positive(-4, 6, 8))   # Expected output: True
-print(two_positive(4, -6, 9))   # Expected output: True
-print(two_positive(-4, 6, 0))   # Expected output: False
-print(two_positive(4, 6, 10))   # Expected output: False
-print(two_positive(-14, -3, -4)) # Expected output: False
+print(two_positive(1, 4, -7))   # Expected output: True
+print(two_positive(-9, 1, 9))   # Expected output: True
+print(two_positive(2, -10, 9))   # Expected output: True
+print(two_positive(-3, 5, 0))   # Expected output: False
+print(two_positive(8, 21, 10))   # Expected output: False
+print(two_positive(-21, -14, -7)) # Expected output: False

@@ -24,7 +24,7 @@ def convert_to_24_hour_format(hour, minute, period):
 ### Function Signature
 
 
-def exactly_two_positive(a, b, c):
+def two_positive(a, b, c):
 
 ## Explanation
 

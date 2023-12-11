@@ -8,7 +8,7 @@
 
 ### Function Signature
 
-```python
+
 def convert_to_24_hour_format(hour, minute, period):
 
 ## Explanation
@@ -23,7 +23,7 @@ def convert_to_24_hour_format(hour, minute, period):
 
 ### Function Signature
 
-```python
+
 def exactly_two_positive(a, b, c):
 
 ## Explanation
@@ -38,7 +38,7 @@ def exactly_two_positive(a, b, c):
 
 ### Function Signature
 
-```python
+
 def solve(s):
 
 ## Explanation
@@ -47,7 +47,7 @@ def solve(s):
 
 ## Credits
 
-This application was created by [Maina Zaquir](https://github.com/MainaZaquir).Special thanks to [Sam Tomashi](https://github.com/SamTomashi) and [Caleb Kiprotich](https://github.com/Calebbii) for providing the guidance and the necessary support for developing this application.
+This application was created by [Maina Zaquir](https://github.com/MainaZaquir).
 
 ## Contributing
 
